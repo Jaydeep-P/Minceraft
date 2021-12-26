@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Minceraft/static/css/main.f37ab771.chunk.css",
+    "main.js": "/Minceraft/static/js/main.60c1c2f0.chunk.js",
+    "main.js.map": "/Minceraft/static/js/main.60c1c2f0.chunk.js.map",
+    "runtime-main.js": "/Minceraft/static/js/runtime-main.d1674327.js",
+    "runtime-main.js.map": "/Minceraft/static/js/runtime-main.d1674327.js.map",
+    "static/js/2.50f3e916.chunk.js": "/Minceraft/static/js/2.50f3e916.chunk.js",
+    "static/js/2.50f3e916.chunk.js.map": "/Minceraft/static/js/2.50f3e916.chunk.js.map",
+    "index.html": "/Minceraft/index.html",
+    "precache-manifest.495a1e97a2bbe354bbd72c2c2b1d0ecc.js": "/Minceraft/precache-manifest.495a1e97a2bbe354bbd72c2c2b1d0ecc.js",
+    "service-worker.js": "/Minceraft/service-worker.js",
+    "static/css/main.f37ab771.chunk.css.map": "/Minceraft/static/css/main.f37ab771.chunk.css.map",
+    "static/js/2.50f3e916.chunk.js.LICENSE.txt": "/Minceraft/static/js/2.50f3e916.chunk.js.LICENSE.txt",
+    "static/media/TitleScreen.css": "/Minceraft/static/media/Minecraftia.370d4eaf.woff",
+    "static/media/MojangLogo.svg": "/Minceraft/static/media/MojangLogo.e771507d.svg",
+    "static/media/back-ground0.jpeg": "/Minceraft/static/media/back-ground0.aa22cf09.jpeg",
+    "static/media/back-ground1.jpeg": "/Minceraft/static/media/back-ground1.b7e4203a.jpeg",
+    "static/media/back-ground2.jpeg": "/Minceraft/static/media/back-ground2.15fb70a1.jpeg",
+    "static/media/back-ground3.jpeg": "/Minceraft/static/media/back-ground3.186b3d3f.jpeg",
+    "static/media/button.png": "/Minceraft/static/media/button.f52b5604.png",
+    "static/media/minceraftLogo.png": "/Minceraft/static/media/minceraftLogo.efc3a0f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1674327.js",
+    "static/js/2.50f3e916.chunk.js",
+    "static/css/main.f37ab771.chunk.css",
+    "static/js/main.60c1c2f0.chunk.js"
+  ]
+}
