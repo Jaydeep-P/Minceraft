@@ -1,0 +1,29 @@
+#container{
+    top: 0px;
+    width: 100vw;
+    height: 100vh;
+    background-color: white;
+}
+
+#worldContainer
+{
+    position: absolute;
+    padding: 0.1em;
+    width: 56vw;
+    height: 12.5vh;
+    left: 22vw;
+    top: 1vh;
+    display: flex;
+}
+
+#worldContainer:hover{
+    outline: 0.15em solid white;
+}
+
+#darkBackGround {
+    background-color: rgba(0, 0, 0, 0.493);
+    outline: 0.3em solid rgba(0, 0, 0, 0.63);
+    position: relative;
+    top: 17vh;
+    height: 57vh;
+}
